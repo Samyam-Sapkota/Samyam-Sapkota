@@ -51,9 +51,10 @@
 
 - 🌍 **Live Bus Tracking System with Leaflet.js + Django**
 - 🛍️ **E-commerce Site with Filtering, Variants (Size/Color), and Stripe Integration**
+- 📸 **Raspberry Pi Stream Handler of AMB IoT Camera to GCP with Fallback Upload**
 - 🧠 **Cauliflower Disease Detection ML Model with GPU on Colab**
 - 🔐 **Email-based Authentication with Multi-Phase Signup in Django**
-- 📸 **Raspberry Pi Camera Stream Handler to GCP with Fallback Upload**
+
 
 ---
 
