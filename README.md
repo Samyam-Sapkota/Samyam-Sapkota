@@ -4,7 +4,7 @@
 ## 🧑‍💻 About Me
 
 - 🔭 I’m currently working on **Django full-stack web apps with modern frontend**
-- 🌱 I’m currently learning **advanced machine learning & React integration with Django**
+- 🌱 I’m currently learning ** machine learning & React integration with Django**
 - 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
 - 💬 Ask me about **Django, JavaScript, HTML/CSS, Leaflet.js, and building real-world apps**
 - 📫 How to reach me: **samyamsapkota@example.com**
