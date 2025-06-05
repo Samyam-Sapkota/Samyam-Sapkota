@@ -63,13 +63,13 @@
 - Coming soon...
 
 ---
-
+<!--
 ## 📫 Contact Me
 
 📧 samyamsapkota@example.com  
 🌐 [My Portfolio](https://your-portfolio-link.com)  
 🔗 [LinkedIn](https://linkedin.com/in/samyamsapkota)
-
+-->
 ---
 
 > “Code is like humor. When you have to explain it, it’s bad.” – Cory House
