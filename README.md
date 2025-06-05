@@ -42,8 +42,8 @@
 
 ## 📈 GitHub Stats
 
-![Samyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyamsapkota&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyamsapkota&layout=compact&theme=radical)
+![Samyam's GitHub Stats](https://github-readme-stats.vercel.app/api?username=samyam-sapkota&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samyam-sapkota&layout=compact&theme=radical)
 
 ---
 
