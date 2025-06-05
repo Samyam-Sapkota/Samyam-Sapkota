@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Django full-stack web apps with modern frontend**
 - 🌱 I’m currently learning **Machine learning & React integration with Django**
-- 👨‍💻 All of my projects are available at [My Portfolio](https://your-portfolio-link.com)
+- 👨‍💻 All of my projects are available at [My Portfolio](https://samyamsapkota.com.np)
 - 💬 Ask me about **Django, JavaScript, HTML/CSS, Leaflet.js, and building real-world apps**
 - 📫 How to reach me: **samyamsapkota@example.com**
 - ⚡ Fun fact: I enjoy building projects from scratch that solve real-life problems.
